@@ -39,17 +39,6 @@ scalable products that create real-world impact.
 > λ motto
 
 "Keep building. Keep learning. Keep improving."
-
-> λ currently_building
-
-🚀 InterviewAcePrep – Interview Preparation Platform
-
-🛒 Flask E-Commerce Application
-
-📚 DSA-Python Repository
-
-🤖 Exploring AI-powered web applications
-
 ---
 
 ## 🌐 Connect With Me
